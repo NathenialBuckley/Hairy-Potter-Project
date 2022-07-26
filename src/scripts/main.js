@@ -22,7 +22,7 @@ const firedFlowerPot = firePottery(flowerPot, 2200)
 
 // Invoke the component function that renders the HTML list
 
-console.log(`${firedMug}`)
+// console.log(`${firedMug}`)
 //  ${firedbowl}
 //  ${firedPlate}
 //  ${firedDragonMug}
